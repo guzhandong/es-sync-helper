@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <entry key="esb.gsinfo.url" >http://a.a</entry>
+    <entry key="esb.gsinfo.dept.name" >知识图谱</entry>
+    <entry key="esb.gssearch.url" >http://a.a</entry>
+
+    <entry key="esb.base.server.id" >8002</entry>
+    <entry key="esb.base.service.id" >8234</entry>
+    <entry key="esb.base.channel.id" >ED0079</entry>
+
+
+    <entry key="esb.base.response.status.succ" >COMPLETE</entry>
+    <entry key="esb.base.response.status.fail" >FAIL</entry>
+
+</properties>
